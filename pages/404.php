@@ -1,0 +1,1 @@
+<h1 style="height:calc(100vh - 160px); text-align:center;font-size:max(20vw,90px);color:#3D437A;">404<p style="font-size:max(5vw, 20px)">PÁGINA INEXISTENTE</p></h1>
